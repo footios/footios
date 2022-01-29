@@ -2,7 +2,13 @@
 #### <React (Native) dev />
 ![<React (Native) dev />](https://pbs.twimg.com/profile_banners/1002039931835994113/1559239505/1080x360)
 
-I learned programming, in order to get a creative, ethical, challenging and versatile job. Now I’m hooked! First, I learned Java to become an Android developer. Then, I switched to React (Native). I have more experience with JavaScript and React Native, but I’m enhancing my TypeScript and React skills. There are more than 6.000 hours of coding and many certificates in my toolkit. And I feel pretty confident with my codings skills!
+I learned programming, in order to get a creative, ethical, challenging and versatile job.\
+Now I’m hooked!\
+First, I learned Java to become an Android developer.\
+Then, I switched to React (Native).\
+I have more experience with JavaScript and React Native, but I’m enhancing my TypeScript and React skills.\
+There are more than 6.000 hours of coding and many certificates in my toolkit.\
+And I feel pretty confident with my codings skills!
 
 Skills: REACT / JS / HTML / CSS
 
