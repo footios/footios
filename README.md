@@ -1,6 +1,6 @@
+![<React (Native) dev />](https://github.com/footios/footios/blob/main/sunrise.jpg)
 ### Hi there 👋, I'm Fotios 
 #### <React (Native) dev />
-![<React (Native) dev />](https://github.com/footios/footios/blob/main/sunrise.jpg)
 
 I learned programming, in order to get a creative, ethical, challenging and versatile job.\
 Now I’m hooked!\
