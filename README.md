@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fotios 
 #### <React (Native) dev />
-![<React (Native) dev />](https://pbs.twimg.com/profile_banners/1002039931835994113/1559239505/1080x360)
+![<React (Native) dev />](https://github.com/footios/footios/blob/main/sunrise.jpg)
 
 I learned programming, in order to get a creative, ethical, challenging and versatile job.\
 Now I’m hooked!\
