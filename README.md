@@ -1,35 +1,7 @@
 <!-- ![<React (Native) dev />](https://github.com/footios/footios/blob/main/sunrise.jpg) -->
 ## <React (Native) dev />  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a> 
 
-I learned programming, in order to get a creative, ethical, challenging and versatile job.\
-Now I’m hooked!\
-First, I learned Java to become an Android developer.\
-Then, I switched to React (Native).\
-I have more experience with JavaScript and React Native, but I’m enhancing my TypeScript and React skills.\
-There are more than 6.000 hours of coding and many certificates in my toolkit.\
-And I feel pretty confident with my codings skills!
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=footios)](https://github.com/anuraghazra/github-readme-stats)
-
-### Skills and (pomodoro) coding hours:
-- HTML5 (33)
-- CSS3: (277)
-- SASS: (97)
-- JavaScript (ES6): (736) 
-- TypeScript: (123) React: (751)
-- React Native: (1118) 
-- React Navigation: (65) 
-- RN Animations: (263) 
-- Redux: (177)
-- Redux Τoolkit: (24)
-- Testing: (36)
-- Git: (120)
-- Firebase: (148)
-- Algos Data structures: (154) 
-- Java: (1178) - No active usage since 2016.
-
-Sum: (4.667)
-The rest 700 is on other technologies.
 
 I’m currently:
 - 🔭 Working on my own projects. 
