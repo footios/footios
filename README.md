@@ -6,10 +6,6 @@
 I’m currently:
 - 🔭 Working on my own projects. 
 - 🌱 Learning React (Native) Testing and Algorithms. 
-- 👯 I’m looking to collaborate on open source projects. 
-- 🤔 I’m looking for help with getting a job. 
-
-
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=footios)  
