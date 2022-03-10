@@ -1,5 +1,8 @@
 <!-- ![<React (Native) dev />](https://github.com/footios/footios/blob/main/sunrise.jpg) -->
-### Hi there 👋, I'm Fotios a <React (Native) dev />
+### <React (Native) dev /> 
+#### Fotios 
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 I learned programming, in order to get a creative, ethical, challenging and versatile job.\
 Now I’m hooked!\
@@ -31,14 +34,14 @@ And I feel pretty confident with my codings skills!
 Sum: (4.667)
 The rest 700 is on other technologies.
 
-- 🔭 I’m currently working on my own projects. 
-- 🌱 I’m currently learning React (Native) Testing. 
+I’m currently:
+- 🔭 Working on my own projects. 
+- 🌱 Learning React (Native) Testing and Algorithms. 
 - 👯 I’m looking to collaborate on open source projects. 
 - 🤔 I’m looking for help with getting a job. 
 
 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=footios)  
 
