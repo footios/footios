@@ -7,9 +7,9 @@ I’m currently:
 - 🔭 Working on my own projects. 
 - 🌱 Learning React (Native) Testing and Algorithms. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=footios)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=footios)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=footios)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=footios)  
 
