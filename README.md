@@ -5,7 +5,7 @@
 
 I’m currently:
 - 🔭 Working on my own projects. 
-- 🌱 Learning React (Native) Testing and Algorithms. 
+- 🌱 Diving into Algorithms. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=footios)](https://github.com/anuraghazra/github-readme-stats)
 
