@@ -1,5 +1,5 @@
 <!-- ![<ReactNative developer />](https://github.com/footios/footios/blob/main/sunrise.jpg) -->
-## <React (Native) dev />  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a> 
+## <ReactNative developer />  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a> 
 
  
 
